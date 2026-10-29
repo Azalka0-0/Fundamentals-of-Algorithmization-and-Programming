@@ -21,7 +21,7 @@
 
 ## Пример 1. `02_first_measurement.py`
 
-![skrin1](lesson_03/screens/скрин3.1.png)
+![skrin1](screens/скрин3.1.png)
 
 **Что измерялось:** Время выполнения функции `calculate(n)` при `n = 1 000 000`. 
 **Результат:** `0.030799 sec`.  
